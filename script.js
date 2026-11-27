@@ -1,5 +1,5 @@
 
-const API_URL = "http://127.0.0.1:8000/tasks";
+const API_URL = "https://todo-project-g5g8.onrender.com/tasks";
 
 const taskInput = document.getElementById("taskInput");
 const addButton = document.getElementById("addButton");
